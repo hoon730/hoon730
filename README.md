@@ -14,3 +14,9 @@
   <img src="https://img.shields.io/badge/REACT QUERY-FF4154?style=flat-square&logo=REACT QUERY&logoColor=white"/>
   <img src="https://img.shields.io/badge/AXIOS-5A29E4?style=flat-square&logo=AXIOS&logoColor=white"/>
 </div>
+<div display=flex>
+  <img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=flat-square&logo=NODE.JS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=EXPRESS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PRISMA-2D3748?style=flat-square&logo=PRISMA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=flat-square&logo=SUPABASE&logoColor=white"/>
+</div>
