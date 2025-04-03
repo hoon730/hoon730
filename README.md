@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=Hello-nl-I'm%20Hoon&fontSize=80" />
 
-<h3>Skill Stack</h3>
+<h3>:black_nib: Skill Stack</h3>
 
 <div display=flex>
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=NEXT.JS&logoColor=white"/>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STYLED-COMPONENTS-DB7093?style=flat-square&logo=STYLED-COMPONENTS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STYLED COMPONENTS-DB7093?style=flat-square&logo=STYLED COMPONENTS&logoColor=white"/>
 </div>
 <div display=flex>
   <img src="https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=VERCEL&logoColor=white"/>
