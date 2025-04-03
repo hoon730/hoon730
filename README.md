@@ -39,7 +39,7 @@
 </div>
 
 <h3>:mailbox_with_no_mail: Contact Me</h3>
-<img src="https://img.shields.io/badge/Gmail?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <h3>:crown: Github Stats</h3>
 
