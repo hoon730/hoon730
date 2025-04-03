@@ -5,7 +5,6 @@
 <br/>
 
 <h3 align="center">:black_nib: Skill Stack</h3>
-<br/>
 <div display=flex align="center">
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=NEXT.JS&logoColor=white"/>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white"/>
@@ -39,14 +38,12 @@
 <br/>
 
 <h3 align="center">:mailbox_with_no_mail: Contact Me</h3>
-<br/>
 <div display=flex align="center">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 <br/>
 
 <h3 align="center">:crown: Github Stats</h3>
-<br/>
 <div display=flex align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" height="100%">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoon730&theme=highcontrast&show_icons=true" />
