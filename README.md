@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=120&section=header&text=HOON's%20GITHUB!&fontColor=111111&fontSize=60&stroke=C2CC13&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=Rounded&color=111111&height=120&section=header&text=HOON's%20GITHUB!&fontColor=000000&fontSize=60&stroke=C2CC13&strokeWidth=2" />
 </div>
 <br/>
 
