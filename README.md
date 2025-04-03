@@ -36,14 +36,15 @@
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/>
   <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=SLACK&logoColor=white"/>
 </div>
-<br>
 
 <h3>:mailbox_with_no_mail: Contact Me</h3>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<br>
 
 <h3>:crown: Github Stats</h3>
-    
+<div display=flex>
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon730&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-    
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoon730&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+    
