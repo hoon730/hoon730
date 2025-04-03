@@ -1,9 +1,11 @@
+<br/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=120&section=header&text=Hello%20World!&fontSize=60" />
 </div>
 <br/>
 
 <h3 align="center">:black_nib: Skill Stack</h3>
+<br/>
 <div display=flex align="center">
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=NEXT.JS&logoColor=white"/>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white"/>
@@ -17,12 +19,6 @@
   <img src="https://img.shields.io/badge/AXIOS-5A29E4?style=flat-square&logo=AXIOS&logoColor=white"/>
 </div>
 <div display=flex align="center">
-  <img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=flat-square&logo=NODE.JS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=EXPRESS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PRISMA-2D3748?style=flat-square&logo=PRISMA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=flat-square&logo=SUPABASE&logoColor=white"/>
-</div>
-<div display=flex align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white"/>
@@ -30,6 +26,7 @@
 </div>
 <div display=flex align="center">
   <img src="https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=VERCEL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=flat-square&logo=SUPABASE&logoColor=white"/>
   <img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=flat-square&logo=FIREBASE&logoColor=white"/>
   <img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=flat-square&logo=NETLIFY&logoColor=white"/>
 </div>
@@ -42,12 +39,14 @@
 <br/>
 
 <h3 align="center">:mailbox_with_no_mail: Contact Me</h3>
+<br/>
 <div display=flex align="center">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 <br/>
 
 <h3 align="center">:crown: Github Stats</h3>
+<br/>
 <div display=flex align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" height="100%">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoon730&theme=highcontrast&show_icons=true" />
