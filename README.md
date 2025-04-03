@@ -37,3 +37,9 @@
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/>
   <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=SLACK&logoColor=white"/>
 </div>
+
+<h3>:bell: Contact Me</h3>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=GMAIL&logoColor=white"/>
+
+<h3>:crown: Github Stats</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon730)](https://github.com/anuraghazra/github-readme-stats)
