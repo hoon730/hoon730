@@ -44,9 +44,11 @@
 <h3>:crown: Github Stats</h3>
 <div display=flex> 
   <div>
+    
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon730&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   <div>
+    
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoon730)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 </div>
