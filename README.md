@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=SLACK&logoColor=white"/>
 </div>
 
-<h3>:bell: Contact Me</h3>
+<h3>:mailbox_with_no_mail: Contact Me</h3>
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=GMAIL&logoColor=white"/>
 
 <h3>:crown: Github Stats</h3>
