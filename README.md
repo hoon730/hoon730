@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=Frontend%20Devloper&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=120&section=header&text=Frontend%20Devloper&fontSize=60" />
 <br>
 
 <h3>:black_nib: Skill Stack</h3>
