@@ -49,11 +49,11 @@
 
 <h3 align="center">:crown: Github Stats</h3>
 <div display=flex align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" height="120">
+  <a href="https://github.com/anuraghazra/github-readme-stats" height="100%">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoon730&theme=highcontrast&show_icons=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" height="120">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon730&layout=compact&bg_color=000000" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" height="100%">
+    <img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon730&layout=compact&bg_color=000000" />
   </a>
 </div>
     
