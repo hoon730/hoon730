@@ -2,7 +2,7 @@
 
 <h3>Skill Stack</h3>
 
-<div display=flex>
+<div display=flex gap="10px">
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=NEXT.JS&logoColor=white"/>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white"/>
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>
