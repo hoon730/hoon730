@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=120&section=header&text=Hello%20World!&fontSize=60" />
 </div>
+<br/>
 
 <h3 align="center">:black_nib: Skill Stack</h3>
 <div display=flex align="center">
@@ -38,18 +39,20 @@
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/>
   <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=SLACK&logoColor=white"/>
 </div>
+<br/>
 
 <h3 align="center">:mailbox_with_no_mail: Contact Me</h3>
 <div display=flex align="center">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
+<br/>
 
 <h3 align="center">:crown: Github Stats</h3>
 <div display=flex align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" width="50%" height="100%">
+  <a href="https://github.com/anuraghazra/github-readme-stats" height="120">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoon730&theme=highcontrast&show_icons=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" width="50%" height="100%">
+  <a href="https://github.com/anuraghazra/github-readme-stats" height="120">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon730&layout=compact&bg_color=000000" />
   </a>
 </div>
