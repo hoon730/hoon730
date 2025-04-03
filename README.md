@@ -46,15 +46,11 @@
 
 <h3 align="center">:crown: Github Stats</h3>
 <div display=flex align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" width="50%" height="100%">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoon730&theme=highcontrast&show_icons=true" />
   </a>
-  <a href="#">
+  <a href="https://github.com/anuraghazra/github-readme-stats" width="50%" height="100%">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon730&layout=compact&bg_color=000000" />
   </a>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon730&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoon730&layout=compact&bg_color=000000)
 </div>
     
