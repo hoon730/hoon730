@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=Hello-nl-I'm%20Hoon&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=Frontend%20Devloper&fontSize=80" />
+<br>
 
 <h3>:black_nib: Skill Stack</h3>
-
 <div display=flex>
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=NEXT.JS&logoColor=white"/>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white"/>
@@ -37,13 +37,14 @@
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/>
   <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=SLACK&logoColor=white"/>
 </div>
+<br>
 
 <h3>:mailbox_with_no_mail: Contact Me</h3>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<br>
 
 <h3>:crown: Github Stats</h3>
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon730&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoon730&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-</div>
