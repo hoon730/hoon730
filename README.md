@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
   </div>
   <div display=flex align="center">
-    <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=REDUX&logoColor=white"/>
     <img src="https://img.shields.io/badge/RECOIL-3578E5?style=flat-square&logo=RECOIL&logoColor=white"/>
     <img src="https://img.shields.io/badge/REACT QUERY-FF4154?style=flat-square&logo=REACT QUERY&logoColor=white"/>
   </div>
@@ -24,7 +23,6 @@
   </div>
   <div display=flex align="center">
     <img src="https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=VERCEL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=flat-square&logo=SUPABASE&logoColor=white"/>
     <img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=flat-square&logo=FIREBASE&logoColor=white"/>
     <img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=flat-square&logo=NETLIFY&logoColor=white"/>
   </div>
